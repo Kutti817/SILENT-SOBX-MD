@@ -109,9 +109,9 @@ let up = `*╭──────────────●●►*
 *https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7*
 
 *╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *SILENT-SOBX-MD*
+*│✫➠ - 📂REPOSITORY NAME:* *jutt*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *SILENT LOVER⁴³²*
+*│✫➠ - 🛡️OWNER:* *Faizan jutt*
 *│✫➠ - 🌐URL:* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
